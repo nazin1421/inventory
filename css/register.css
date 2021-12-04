@@ -1,0 +1,43 @@
+.container{
+    padding: 30px;
+    width: 60%;
+    position: relative;
+    margin: auto;
+    background: #000;
+    color: aqua;
+    border-radius: 3px;
+    opacity: 90%;
+}
+/* Full-width input fields */
+input[type=text], input[type=password],input[type=email] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+    color: black;
+}
+
+input[type=text]:focus, input[type=password]:focus, input[type=email]:focus {
+    background-color: #ddd;
+    outline: none;
+    color: black;
+}
+
+a{
+    color: beige;
+}
+p{
+    color: burlywood;
+}
+span{
+    color: cornsilk;
+}
+h1{
+    text-align: center;
+
+}
+hr{
+    color: aliceblue;
+}

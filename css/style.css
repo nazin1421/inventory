@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(247, 215, 226);
+    background-image: -o-linear-gradient(315deg, #f8f9d2 0%, #e8d 100% );
+}
+
+
+.center_align{
+    text-align: center;
+    font-size: 50px;
+}
